@@ -1,9 +1,9 @@
 # hydrodynamics
 PEARL hydrodynamics module
-Omegacheck
-  Find the natural frequency in any DOF
-Addedmassplot
-  Plot added mass of any DOF
+Omegacheck/n
+ /t Find the natural frequency in any DOF
+Addedmassplot /n
+ /t Plot added mass of any DOF
 PEARLRAOalldof
   Find/plot frequency vs RAO for any DOF
 Hydro_coefficient
